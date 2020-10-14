@@ -5,4 +5,4 @@
 
 > 构建的C++工程名：AndroidDemo
 
-> 安装包以及游戏运行路径(`./AndroidDemo/Android_ETC2 & ./AndroidDemo/Android_ETC2/RunGameVideo`)
+> 安装包以及游戏视频录制路径(`./AndroidDemo/Android_ETC2 & ./AndroidDemo/Android_ETC2/RunGameVideo`)
