@@ -4,4 +4,5 @@
 + 编译并形成安装包，确保能够用来将游戏工程安装到手机正常运行
 
 > 构建的C++工程名：AndroidDemo
+
 > 安装包以及游戏运行路径(`./AndroidDemo/Android_ETC2 & ./AndroidDemo/Android_ETC2/RunGameVideo`)
