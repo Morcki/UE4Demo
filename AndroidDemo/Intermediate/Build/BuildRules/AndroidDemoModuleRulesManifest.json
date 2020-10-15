@@ -1,8 +1,0 @@
-{
-	"SourceFiles": [
-		"G:\\UnrealWork\\UE4Demo\\AndroidDemo\\Source\\AndroidDemo\\AndroidDemo.Build.cs",
-		"G:\\UnrealWork\\UE4Demo\\AndroidDemo\\Source\\AndroidDemo.Target.cs",
-		"G:\\UnrealWork\\UE4Demo\\AndroidDemo\\Source\\AndroidDemoEditor.Target.cs"
-	],
-	"EngineVersion": "4.25.3"
-}
