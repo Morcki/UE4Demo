@@ -75,3 +75,7 @@ DerivedDataCache/*
 
 # Android ETC2 apk & bat
 Android_ETC2/*
+*.apk
+*.bat
+*.obb
+*.mp4
