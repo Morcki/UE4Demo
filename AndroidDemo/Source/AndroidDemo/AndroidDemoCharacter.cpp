@@ -57,6 +57,10 @@ void AAndroidDemoCharacter::SetupPlayerInputComponent(class UInputComponent* Pla
 	PlayerInputComponent->BindAction("Jump", IE_Pressed, this, &ACharacter::Jump);
 	PlayerInputComponent->BindAction("Jump", IE_Released, this, &ACharacter::StopJumping);
 
+	// Set up Fire Action
+
+
+
 	PlayerInputComponent->BindAxis("MoveForward", this, &AAndroidDemoCharacter::MoveForward);
 	PlayerInputComponent->BindAxis("MoveRight", this, &AAndroidDemoCharacter::MoveRight);
 
@@ -73,7 +77,9 @@ void AAndroidDemoCharacter::SetupPlayerInputComponent(class UInputComponent* Pla
 	PlayerInputComponent->BindTouch(IE_Released, this, &AAndroidDemoCharacter::TouchStopped);
 
 	// VR headset functionality
-	PlayerInputComponent->BindAction("ResetVR", IE_Pressed, this, &AAndroidDemoCharacter::OnResetVR);
+	//PlayerInputComponent->BindAction("ResetVR", IE_Pressed, this, &AAndroidDemoCharacter::OnResetVR);
+
+
 }
 
 
