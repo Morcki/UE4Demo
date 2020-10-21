@@ -5,4 +5,4 @@
 
 > 构建的C++工程名：AndroidDemo
 
-> apk及游戏运行视频[百度网盘地址](https://pan.baidu.com/s/1xP9xuEsBZzXEmlv6RqaB7g)，提取密码：mpt9
+> 安装包以及游戏视频录制路径(`./AndroidDemo/Android_ETC2 & ./AndroidDemo/Android_ETC2/RunGameVideo`)
