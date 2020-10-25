@@ -13,3 +13,4 @@
 + （附加功能，有余力）一定时间内多人打靶，中靶分数+时间加成得分，分数排行。（可以刷日志）
 
 > 构建的C++工程名：mShootTarget
+> apk及游戏运行视频[百度网盘地址](https://pan.baidu.com/s/1CWrOBQuU6XxNjUz10SMF5Q), 提取密码：jklb
