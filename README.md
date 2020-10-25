@@ -5,4 +5,11 @@
 
 > 构建的C++工程名：AndroidDemo
 
-> 安装包以及游戏视频录制路径(`./AndroidDemo/Android_ETC2 & ./AndroidDemo/Android_ETC2/RunGameVideo`)
+> apk及游戏运行视频[百度网盘地址](https://pan.baidu.com/s/1xP9xuEsBZzXEmlv6RqaB7g)，提取密码：mpt9
+
+## 2020/10/18 第二次作业要求:
++ 靶标功能实现
++ 靶标击中得分机制
++ （附加功能，有余力）一定时间内多人打靶，中靶分数+时间加成得分，分数排行。（可以刷日志）
+
+> 构建的C++工程名：mShootTarget
