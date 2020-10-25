@@ -5,5 +5,7 @@
 |    2020-10-14    |  Mocki |    AndroidDemo      |   build AndroidDemo & commite video of Demo-game |
 |----------------------------------------------------------------------------------------------------|
 |    2020-10-21    |  Mocki |      *.uasset       |   commite Animations & Materials,                |
-|                  |        |                     |   update BluePrints to describe Shoot Relations  |
+|                  |        |                     |   update BluePrints For Test                     |                          |
+|----------------------------------------------------------------------------------------------------|
+|    2020-10-25    |  Mocki |     mShootTarget    |   commite Shoot Target Game                     |
 |----------------------------------------------------------------------------------------------------|
