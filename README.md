@@ -15,3 +15,11 @@
 > 构建的C++工程名：mShootTarget
 
 > apk及游戏运行视频[百度网盘地址](https://pan.baidu.com/s/1CWrOBQuU6XxNjUz10SMF5Q), 提取密码：jklb
+
+## 2020/10/31 第三次作业要求:
++ 为目前的Demo添加类似下面的游戏界面：包含角色的个人信息， 基础操作按钮，计分显示。
++ （可选）添加一个得分排行榜，排行数据可使用SaveGame保存于本地，得分进入榜单时可编辑自己在榜单上显示的昵称。 
+
+> C++工程名：mShootTarget
+
+> apk及游戏运行视频[百度网盘地址](https://pan.baidu.com/s/14kafzK0r9gwcLSbEBbAV7w), 提取密码：2mg2
