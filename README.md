@@ -14,7 +14,7 @@
 
 > 构建的C++工程名：mShootTarget
 
-> apk及游戏运行视频[百度网盘地址](https://pan.baidu.com/s/1CWrOBQuU6XxNjUz10SMF5Q), 提取密码：jklb
+> 游戏运行视频[百度网盘地址](https://pan.baidu.com/s/1CWrOBQuU6XxNjUz10SMF5Q), 提取密码：jklb
 
 ## 2020/10/31 第三次作业要求:
 + 为目前的Demo添加类似下面的游戏界面：包含角色的个人信息， 基础操作按钮，计分显示。
@@ -32,4 +32,4 @@
 + (选做)当按下AIt键时，可以实现自由视角功能，即角色不随着视角左右变化进行旋转，但是角色的头部可 以适当跟随视角左右、上下。
 
 > C++工程名：mShootTarget
-> 待完成
+> 游戏运行视频[百度网盘地址](https://pan.baidu.com/s/1AedlR7LXyedgBBkUrqVNSg), 提取密码：vcth
