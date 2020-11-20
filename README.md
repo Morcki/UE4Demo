@@ -32,4 +32,5 @@
 + (选做)当按下AIt键时，可以实现自由视角功能，即角色不随着视角左右变化进行旋转，但是角色的头部可 以适当跟随视角左右、上下。
 
 > C++工程名：mShootTarget
+
 > 游戏运行视频[百度网盘地址](https://pan.baidu.com/s/1AedlR7LXyedgBBkUrqVNSg), 提取密码：vcth
