@@ -43,4 +43,4 @@
 
 > C++工程名：mShootTarget
 
-> 暂无
+> 游戏运行视频[百度网盘地址](https://pan.baidu.com/s/12fL8xV0BLreCoXckL6CVnQ), 提取密码：v7sp
