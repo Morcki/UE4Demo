@@ -77,6 +77,26 @@ void AmShootTargetCharacter::SetupPlayerInputComponent(class UInputComponent* Pl
 	PlayerInputComponent->BindAction("ResetVR", IE_Pressed, this, &AmShootTargetCharacter::OnResetVR);
 }
 
+void AmShootTargetCharacter::InputAnimMontage(UAnimMontage * InputAnim)
+{
+	InputAnimMontageServer(InputAnim);
+}
+
+void AmShootTargetCharacter::InputAnimMontageServer_Implementation(UAnimMontage * InputAnim)
+{
+	InputAnimMontageMulticast(InputAnim);
+}
+
+bool AmShootTargetCharacter::InputAnimMontageServer_Validate(UAnimMontage * InputAnim)
+{
+	return true;
+}
+
+void AmShootTargetCharacter::InputAnimMontageMulticast_Implementation(UAnimMontage * InputAnim)
+{
+	PlayAnimMontage(InputAnim);
+}
+
 
 void AmShootTargetCharacter::OnResetVR()
 {
