@@ -52,3 +52,7 @@
 + 所有玩家可以自由交战
 + 死亡时有死亡表现，死亡后可以重生
 + 游戏结束时进入结算界面。包括击杀数，死亡数。
+
+> C++工程名：mShootTarget
+
+> 游戏运行视频[百度网盘地址](https://pan.baidu.com/s/1_s_HFhtqsdSJGc3xABhD4A), 提取密码：li24
