@@ -70,4 +70,4 @@
 
 > C++工程名：mShootTarget
 
-> 安卓apk及游戏运行视频[百度网盘地址](https://pan.baidu.com/s/16D53WcMOYf-4Sa1iuFxMmQ)，提取密码：p8uc
+> 安卓apk及游戏运行视频[百度网盘地址](https://pan.baidu.com/s/1UHF2JP96lpN-cYEdnybxcQ), 提取密码：3pc4
