@@ -71,3 +71,13 @@
 > C++工程名：mShootTarget
 
 > 安卓apk及游戏运行视频[百度网盘地址](https://pan.baidu.com/s/1LrQKil_gzYyRfnpsq2mchA), 提取密码：alja
+
+## 2020/12/21 最终版本：
+
++ Version(1.0) 目前测试尚无重大bug发现，后续将持续测试报告bug，并修复
++ 网络同步部分尚待优化
++ 将持续更新内容...
+
+> C++工程名：mShootTarget
+
+> 安卓apk[百度网盘地址](https://pan.baidu.com/s/1S7Vbjm3d-Yppw0hYlb21UA), 提取密码：wuww
