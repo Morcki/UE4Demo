@@ -82,7 +82,6 @@
 
 > 安卓apk[百度网盘地址](https://pan.baidu.com/s/1S7Vbjm3d-Yppw0hYlb21UA), 提取密码：wuww
 
-+ **版本更新日志**
-
-- Version1.00: 基础版Demo
-- Version1.01: 添加手雷炸力（fire impulse）
++ **版本更新日志：**
+	- Version1.00: 基础版Demo
+	- Version1.01: 添加手雷炸力（fire impulse）
